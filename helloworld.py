@@ -1,1 +1,1 @@
-print("Hello, world!")
+print("Hello, half of the world! - Thanos")
